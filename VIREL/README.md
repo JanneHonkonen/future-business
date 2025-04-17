@@ -4,6 +4,9 @@
 **Location**: Saarijärvi, Finland  
 **Version**: Revision 1, April 17, 2025
 
+OSF.IO Citation:
+Honkonen, J. (2025). VIREL – Visionary Integrated Relay for Efficient Logistics. OSF. https://doi.org/10.17605/OSF.IO/AF8YZ
+
 ---
 
 ## What is VIREL?
