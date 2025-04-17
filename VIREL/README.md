@@ -6,7 +6,7 @@
 
 ---
 
-## 🛰️ What is VIREL?
+## What is VIREL?
 
 **VIREL** is a fully autonomous drone and VTOL relay logistics system designed to replace the inefficiencies of last-mile delivery and inter-hub transport. Instead of ground traffic, it leverages a decentralized network of autonomous electric drones, relay hubs, and cloud-based traffic management.
 
@@ -14,7 +14,7 @@ It is a vision for an *Internet of Packages*—where aerial "data packets" (dron
 
 ---
 
-## 🔍 Highlights
+## Highlights
 
 - End-to-end automation: zero human pilots needed
 - Modular design: scalable from local to global networks
@@ -25,30 +25,30 @@ It is a vision for an *Internet of Packages*—where aerial "data packets" (dron
 
 ---
 
-## 📁 Files
+## Files
 
 - [`VIREL.pdf`](./VIREL.pdf): Full formal document with system architecture, safety model, and business plan
 - [`VIREL.md`](./VIREL.md): Markdown version for easy reading, editing, and collaboration
 
 ---
 
-## 🧭 License
+## License
 
 This concept is shared publicly under the **Creative Commons BY-NC-SA 4.0 License** unless otherwise stated.  
 Feel free to fork, cite, or build upon it for non-commercial use.
 
-> Attribution required. Derivatives must be shared under the same license.
+> Attribution required. Derivatives must be shared under the same license. For commericial usage of my idea, I only require a small fraction of share of company and small uphead payment :)
 
 ---
 
-## ⚙️ Status
+## Status
 
 This is a **concept design** released for public inspiration, study, or potential collaboration.  
 There is no commercial venture behind this as of now. If you're an engineer, researcher, or logistics innovator who finds value here—feel free to reach out or just run with it.
 
 ---
 
-## 💬 Contact
+## ontact
 
 Janne Honkonen  
 📍 Saarijärvi, Finland  
